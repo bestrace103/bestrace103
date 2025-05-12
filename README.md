@@ -1,10 +1,10 @@
 <div>
     <img align="right" src="https://komarev.com/ghpvc/?username=bestrace103&label=Profile%20views&color=0e75b6&style=flat" alt="bestrace103" />
 </div>
-<h1 align="center">Hi👋, I build <b>intelligent software</b> - ⚡fast, light, and sharp as a mouse. 🐭</h1>
+<h1 align="center">Hi👋, I </b></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=5000&pause=600&center=true&random=true&width=970&height=64&lines=AI+Powered+Platform+Development+-+Web+%26+Mobile+Full+Stack+Developer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=5000&pause=600&center=true&random=true&width=970&height=64&lines=Casino+Betting+Platform+Development+-+Web+%26+Mobile+Blockchain+Developer!" alt="Typing SVG" />
 </p>
 <p align="center">  
     <img src="https://github-trophies.vercel.app/?username=bestrace103&margin-h=10&margin-w=10&theme=algolia" alt="bestrace103" />
@@ -14,7 +14,7 @@
 <span>
     <b>
         <i>
-            I specialize in building AI-powered platforms and applications using the latest technologies. My focus is on creating seamless, high-performance solutions with a variety of powerful libraries and tools.
+            I am highly experienced in enterprise application development with extensive success in designing, and developing large-scale projects from end to end.
         </i>
     </b>
 </span>
