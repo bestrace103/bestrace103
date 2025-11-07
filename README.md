@@ -2,7 +2,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=bestrace103&label=Profile%20views&color=0e75b6&style=flat" alt="bestrace103" />
 </div>
 <h1 align="center">Hi👋, I am a full stack developer with extensive experience</b></h1>
-
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=5000&pause=600&center=true&random=true&width=970&height=64&lines=Casino+Betting+Platform+Development+-+Web+%26+Blockchain+Developer!" alt="Typing SVG" />
 </p>
