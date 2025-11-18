@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=5000&pause=600&center=true&random=true&width=970&height=64&lines=Casino+Betting+Platform+Development+-+Web+%26+Blockchain+Developer!" alt="Typing SVG" />
 </p>
 <p align="center">  
+    <img src="https://github-trophies.vercel.app/?username=bestrace103&theme=algolia&margin-w=10&margin-h=10&titles=Commit,Follower,Star,PullRequest,Repository" alt="bestrace103" />
     <img src="https://github-trophies.vercel.app/?username=bestrace103&margin-h=10&margin-w=10&theme=algolia" alt="bestrace103" />
 </p>
 
