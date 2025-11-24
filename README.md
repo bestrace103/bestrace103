@@ -8,6 +8,9 @@
 <p align="center">  
     <img src="https://github-trophies.vercel.app/?username=bestrace103&margin-h=10&margin-w=10&theme=algolia" alt="bestrace103" />
 </p>
+<!-- <p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=bestrace103&theme=algolia&margin-w=10&margin-h=10&title=Commits,Followers,Repositories,Stars,Issues,PullRequest" alt="bestrace103" />
+</p> -->
 
 <h2 align="left" color="cornflowerblue">
 <span>
@@ -143,7 +146,7 @@
 </p>
 
 <p align="center">
-    <img  height="156" src="https://github-readme-stats.vercel.app/api?username=bestrace103&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bestrace103&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
